@@ -9,7 +9,7 @@
 <body>
     <?php echo "Functionalities Links Given Below:" ?>
     <ul>
-        <li><a href="">Progress Bar</a></li>
+        <li><a href="./upload_form.html" target="_blank">Progress Bar</a></li>
     </ul>
 </body>
 </html>
